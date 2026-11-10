@@ -1,0 +1,151 @@
+homework_id,student_id,subject,description,teacher_id,assigned_date,status
+H1,S101,Mathematics,Complete Chapter 5,T101,2026-11-02,Pending
+H2,S101,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H3,S101,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H4,S102,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H5,S102,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Pending
+H6,S102,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H7,S103,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H8,S103,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H9,S103,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H10,S104,Mathematics,Complete Chapter 5,T101,2026-11-02,Pending
+H11,S104,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H12,S104,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H13,S105,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H14,S105,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H15,S105,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H16,S106,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H17,S106,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Pending
+H18,S106,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H19,S107,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H20,S107,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Pending
+H21,S107,English,Write an essay: My Favourite Book,T105,2026-11-09,Completed
+H22,S108,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H23,S108,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Pending
+H24,S108,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H25,S109,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H26,S109,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H27,S109,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H28,S110,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H29,S110,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H30,S110,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H31,S111,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H32,S111,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H33,S111,English,Write an essay: My Favourite Book,T105,2026-11-09,Completed
+H34,S112,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H35,S112,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H36,S112,English,Write an essay: My Favourite Book,T105,2026-11-09,Completed
+H37,S113,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H38,S113,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Pending
+H39,S113,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H40,S114,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H41,S114,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H42,S114,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H43,S115,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H44,S115,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Completed
+H45,S115,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H46,S116,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H47,S116,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Pending
+H48,S116,English,Write an essay: My Favourite Book,T105,2026-11-09,Completed
+H49,S117,Mathematics,Complete Chapter 5,T101,2026-11-02,Completed
+H50,S117,Science,Write notes on Chapter 3 - Electricity,T103,2026-11-05,Pending
+H51,S117,English,Write an essay: My Favourite Book,T105,2026-11-09,Pending
+H52,S118,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H53,S118,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H54,S118,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H55,S119,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H56,S119,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H57,S119,English,Read Chapter 6 and answer questions,T106,2026-11-09,Completed
+H58,S120,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H59,S120,Science,Draw and label a plant cell,T104,2026-11-05,Pending
+H60,S120,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H61,S121,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H62,S121,Science,Draw and label a plant cell,T104,2026-11-05,Pending
+H63,S121,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H64,S122,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H65,S122,Science,Draw and label a plant cell,T104,2026-11-05,Pending
+H66,S122,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H67,S123,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H68,S123,Science,Draw and label a plant cell,T104,2026-11-05,Pending
+H69,S123,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H70,S124,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H71,S124,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H72,S124,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H73,S125,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H74,S125,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H75,S125,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H76,S126,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H77,S126,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H78,S126,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H79,S127,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H80,S127,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H81,S127,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H82,S128,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H83,S128,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H84,S128,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H85,S129,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Pending
+H86,S129,Science,Draw and label a plant cell,T104,2026-11-05,Pending
+H87,S129,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H88,S130,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H89,S130,Science,Draw and label a plant cell,T104,2026-11-05,Pending
+H90,S130,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H91,S131,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H92,S131,Science,Draw and label a plant cell,T104,2026-11-05,Pending
+H93,S131,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H94,S132,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H95,S132,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H96,S132,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H97,S133,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H98,S133,Science,Draw and label a plant cell,T104,2026-11-05,Completed
+H99,S133,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H100,S134,Mathematics,Solve Exercise 4.2 (Polynomials),T102,2026-11-02,Completed
+H101,S134,Science,Draw and label a plant cell,T104,2026-11-05,Pending
+H102,S134,English,Read Chapter 6 and answer questions,T106,2026-11-09,Pending
+H103,S135,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H104,S135,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H105,S135,English,Write a letter to a friend,T106,2026-11-09,Pending
+H106,S136,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H107,S136,Science,Learn the parts of a flower,T104,2026-11-05,Pending
+H108,S136,English,Write a letter to a friend,T106,2026-11-09,Completed
+H109,S137,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H110,S137,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H111,S137,English,Write a letter to a friend,T106,2026-11-09,Pending
+H112,S138,Mathematics,Practise fractions worksheet,T102,2026-11-02,Pending
+H113,S138,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H114,S138,English,Write a letter to a friend,T106,2026-11-09,Completed
+H115,S139,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H116,S139,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H117,S139,English,Write a letter to a friend,T106,2026-11-09,Completed
+H118,S140,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H119,S140,Science,Learn the parts of a flower,T104,2026-11-05,Pending
+H120,S140,English,Write a letter to a friend,T106,2026-11-09,Pending
+H121,S141,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H122,S141,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H123,S141,English,Write a letter to a friend,T106,2026-11-09,Pending
+H124,S142,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H125,S142,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H126,S142,English,Write a letter to a friend,T106,2026-11-09,Pending
+H127,S143,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H128,S143,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H129,S143,English,Write a letter to a friend,T106,2026-11-09,Completed
+H130,S144,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H131,S144,Science,Learn the parts of a flower,T104,2026-11-05,Pending
+H132,S144,English,Write a letter to a friend,T106,2026-11-09,Pending
+H133,S145,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H134,S145,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H135,S145,English,Write a letter to a friend,T106,2026-11-09,Completed
+H136,S146,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H137,S146,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H138,S146,English,Write a letter to a friend,T106,2026-11-09,Pending
+H139,S147,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H140,S147,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H141,S147,English,Write a letter to a friend,T106,2026-11-09,Pending
+H142,S148,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H143,S148,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H144,S148,English,Write a letter to a friend,T106,2026-11-09,Pending
+H145,S149,Mathematics,Practise fractions worksheet,T102,2026-11-02,Completed
+H146,S149,Science,Learn the parts of a flower,T104,2026-11-05,Pending
+H147,S149,English,Write a letter to a friend,T106,2026-11-09,Pending
+H148,S150,Mathematics,Practise fractions worksheet,T102,2026-11-02,Pending
+H149,S150,Science,Learn the parts of a flower,T104,2026-11-05,Completed
+H150,S150,English,Write a letter to a friend,T106,2026-11-09,Completed

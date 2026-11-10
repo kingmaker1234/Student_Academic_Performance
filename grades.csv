@@ -1,0 +1,301 @@
+student_id,subject,marks,grade,date
+S101,Mathematics,85,A,2026-11-05
+S101,Science,95,A+,2026-11-05
+S101,English,95,A+,2026-11-05
+S101,Social Science,84,A,2026-11-05
+S101,Computer Science,86,A,2026-11-05
+S101,Tamil,88,A,2026-11-05
+S102,Mathematics,81,A,2026-11-05
+S102,Science,84,A,2026-11-05
+S102,English,91,A+,2026-11-05
+S102,Social Science,84,A,2026-11-05
+S102,Computer Science,83,A,2026-11-05
+S102,Tamil,79,B,2026-11-05
+S103,Mathematics,45,F,2026-11-05
+S103,Science,45,F,2026-11-05
+S103,English,45,F,2026-11-05
+S103,Social Science,51,D,2026-11-05
+S103,Computer Science,58,D,2026-11-05
+S103,Tamil,44,F,2026-11-05
+S104,Mathematics,63,C,2026-11-05
+S104,Science,72,B,2026-11-05
+S104,English,89,A,2026-11-05
+S104,Social Science,62,C,2026-11-05
+S104,Computer Science,62,C,2026-11-05
+S104,Tamil,68,C,2026-11-05
+S105,Mathematics,75,B,2026-11-05
+S105,Science,73,B,2026-11-05
+S105,English,81,A,2026-11-05
+S105,Social Science,70,B,2026-11-05
+S105,Computer Science,64,C,2026-11-05
+S105,Tamil,80,A,2026-11-05
+S106,Mathematics,71,B,2026-11-05
+S106,Science,79,B,2026-11-05
+S106,English,76,B,2026-11-05
+S106,Social Science,79,B,2026-11-05
+S106,Computer Science,71,B,2026-11-05
+S106,Tamil,69,C,2026-11-05
+S107,Mathematics,52,D,2026-11-05
+S107,Science,63,C,2026-11-05
+S107,English,45,F,2026-11-05
+S107,Social Science,62,C,2026-11-05
+S107,Computer Science,60,C,2026-11-05
+S107,Tamil,69,C,2026-11-05
+S108,Mathematics,51,D,2026-11-05
+S108,Science,63,C,2026-11-05
+S108,English,67,C,2026-11-05
+S108,Social Science,55,D,2026-11-05
+S108,Computer Science,75,B,2026-11-05
+S108,Tamil,56,D,2026-11-05
+S109,Mathematics,69,C,2026-11-05
+S109,Science,89,A,2026-11-05
+S109,English,84,A,2026-11-05
+S109,Social Science,81,A,2026-11-05
+S109,Computer Science,77,B,2026-11-05
+S109,Tamil,67,C,2026-11-05
+S110,Mathematics,76,B,2026-11-05
+S110,Science,98,A+,2026-11-05
+S110,English,100,A+,2026-11-05
+S110,Social Science,90,A+,2026-11-05
+S110,Computer Science,90,A+,2026-11-05
+S110,Tamil,93,A+,2026-11-05
+S111,Mathematics,69,C,2026-11-05
+S111,Science,78,B,2026-11-05
+S111,English,79,B,2026-11-05
+S111,Social Science,76,B,2026-11-05
+S111,Computer Science,63,C,2026-11-05
+S111,Tamil,74,B,2026-11-05
+S112,Mathematics,53,D,2026-11-05
+S112,Science,53,D,2026-11-05
+S112,English,39,F,2026-11-05
+S112,Social Science,45,F,2026-11-05
+S112,Computer Science,64,C,2026-11-05
+S112,Tamil,60,C,2026-11-05
+S113,Mathematics,48,F,2026-11-05
+S113,Science,58,D,2026-11-05
+S113,English,48,F,2026-11-05
+S113,Social Science,30,F,2026-11-05
+S113,Computer Science,43,F,2026-11-05
+S113,Tamil,39,F,2026-11-05
+S114,Mathematics,61,C,2026-11-05
+S114,Science,62,C,2026-11-05
+S114,English,47,F,2026-11-05
+S114,Social Science,51,D,2026-11-05
+S114,Computer Science,65,C,2026-11-05
+S114,Tamil,55,D,2026-11-05
+S115,Mathematics,72,B,2026-11-05
+S115,Science,69,C,2026-11-05
+S115,English,75,B,2026-11-05
+S115,Social Science,82,A,2026-11-05
+S115,Computer Science,87,A,2026-11-05
+S115,Tamil,69,C,2026-11-05
+S116,Mathematics,84,A,2026-11-05
+S116,Science,87,A,2026-11-05
+S116,English,79,B,2026-11-05
+S116,Social Science,73,B,2026-11-05
+S116,Computer Science,90,A+,2026-11-05
+S116,Tamil,72,B,2026-11-05
+S117,Mathematics,85,A,2026-11-05
+S117,Science,94,A+,2026-11-05
+S117,English,91,A+,2026-11-05
+S117,Social Science,80,A,2026-11-05
+S117,Computer Science,88,A,2026-11-05
+S117,Tamil,89,A,2026-11-05
+S118,Mathematics,96,A+,2026-11-05
+S118,Science,94,A+,2026-11-05
+S118,English,91,A+,2026-11-05
+S118,Social Science,87,A,2026-11-05
+S118,Computer Science,78,B,2026-11-05
+S118,Tamil,95,A+,2026-11-05
+S119,Mathematics,61,C,2026-11-05
+S119,Science,54,D,2026-11-05
+S119,English,50,D,2026-11-05
+S119,Social Science,58,D,2026-11-05
+S119,Computer Science,51,D,2026-11-05
+S119,Tamil,56,D,2026-11-05
+S120,Mathematics,100,A+,2026-11-05
+S120,Science,88,A,2026-11-05
+S120,English,92,A+,2026-11-05
+S120,Social Science,87,A,2026-11-05
+S120,Computer Science,84,A,2026-11-05
+S120,Tamil,90,A+,2026-11-05
+S121,Mathematics,61,C,2026-11-05
+S121,Science,74,B,2026-11-05
+S121,English,64,C,2026-11-05
+S121,Social Science,63,C,2026-11-05
+S121,Computer Science,62,C,2026-11-05
+S121,Tamil,68,C,2026-11-05
+S122,Mathematics,59,D,2026-11-05
+S122,Science,56,D,2026-11-05
+S122,English,44,F,2026-11-05
+S122,Social Science,53,D,2026-11-05
+S122,Computer Science,46,F,2026-11-05
+S122,Tamil,60,C,2026-11-05
+S123,Mathematics,78,B,2026-11-05
+S123,Science,84,A,2026-11-05
+S123,English,77,B,2026-11-05
+S123,Social Science,72,B,2026-11-05
+S123,Computer Science,62,C,2026-11-05
+S123,Tamil,72,B,2026-11-05
+S124,Mathematics,63,C,2026-11-05
+S124,Science,78,B,2026-11-05
+S124,English,87,A,2026-11-05
+S124,Social Science,92,A+,2026-11-05
+S124,Computer Science,74,B,2026-11-05
+S124,Tamil,85,A,2026-11-05
+S125,Mathematics,93,A+,2026-11-05
+S125,Science,96,A+,2026-11-05
+S125,English,93,A+,2026-11-05
+S125,Social Science,100,A+,2026-11-05
+S125,Computer Science,94,A+,2026-11-05
+S125,Tamil,100,A+,2026-11-05
+S126,Mathematics,70,B,2026-11-05
+S126,Science,62,C,2026-11-05
+S126,English,63,C,2026-11-05
+S126,Social Science,70,B,2026-11-05
+S126,Computer Science,65,C,2026-11-05
+S126,Tamil,69,C,2026-11-05
+S127,Mathematics,54,D,2026-11-05
+S127,Science,38,F,2026-11-05
+S127,English,55,D,2026-11-05
+S127,Social Science,38,F,2026-11-05
+S127,Computer Science,52,D,2026-11-05
+S127,Tamil,67,C,2026-11-05
+S128,Mathematics,49,F,2026-11-05
+S128,Science,35,F,2026-11-05
+S128,English,32,F,2026-11-05
+S128,Social Science,49,F,2026-11-05
+S128,Computer Science,48,F,2026-11-05
+S128,Tamil,34,F,2026-11-05
+S129,Mathematics,74,B,2026-11-05
+S129,Science,66,C,2026-11-05
+S129,English,73,B,2026-11-05
+S129,Social Science,75,B,2026-11-05
+S129,Computer Science,60,C,2026-11-05
+S129,Tamil,64,C,2026-11-05
+S130,Mathematics,80,A,2026-11-05
+S130,Science,79,B,2026-11-05
+S130,English,63,C,2026-11-05
+S130,Social Science,69,C,2026-11-05
+S130,Computer Science,73,B,2026-11-05
+S130,Tamil,77,B,2026-11-05
+S131,Mathematics,89,A,2026-11-05
+S131,Science,99,A+,2026-11-05
+S131,English,94,A+,2026-11-05
+S131,Social Science,93,A+,2026-11-05
+S131,Computer Science,94,A+,2026-11-05
+S131,Tamil,89,A,2026-11-05
+S132,Mathematics,79,B,2026-11-05
+S132,Science,73,B,2026-11-05
+S132,English,83,A,2026-11-05
+S132,Social Science,79,B,2026-11-05
+S132,Computer Science,78,B,2026-11-05
+S132,Tamil,78,B,2026-11-05
+S133,Mathematics,67,C,2026-11-05
+S133,Science,82,A,2026-11-05
+S133,English,67,C,2026-11-05
+S133,Social Science,75,B,2026-11-05
+S133,Computer Science,69,C,2026-11-05
+S133,Tamil,71,B,2026-11-05
+S134,Mathematics,71,B,2026-11-05
+S134,Science,92,A+,2026-11-05
+S134,English,85,A,2026-11-05
+S134,Social Science,77,B,2026-11-05
+S134,Computer Science,87,A,2026-11-05
+S134,Tamil,84,A,2026-11-05
+S135,Mathematics,88,A,2026-11-05
+S135,Science,85,A,2026-11-05
+S135,English,81,A,2026-11-05
+S135,Social Science,76,B,2026-11-05
+S135,Computer Science,90,A+,2026-11-05
+S135,Tamil,82,A,2026-11-05
+S136,Mathematics,62,C,2026-11-05
+S136,Science,51,D,2026-11-05
+S136,English,55,D,2026-11-05
+S136,Social Science,52,D,2026-11-05
+S136,Computer Science,65,C,2026-11-05
+S136,Tamil,57,D,2026-11-05
+S137,Mathematics,71,B,2026-11-05
+S137,Science,77,B,2026-11-05
+S137,English,84,A,2026-11-05
+S137,Social Science,68,C,2026-11-05
+S137,Computer Science,64,C,2026-11-05
+S137,Tamil,57,D,2026-11-05
+S138,Mathematics,64,C,2026-11-05
+S138,Science,56,D,2026-11-05
+S138,English,58,D,2026-11-05
+S138,Social Science,82,A,2026-11-05
+S138,Computer Science,64,C,2026-11-05
+S138,Tamil,80,A,2026-11-05
+S139,Mathematics,91,A+,2026-11-05
+S139,Science,93,A+,2026-11-05
+S139,English,90,A+,2026-11-05
+S139,Social Science,87,A,2026-11-05
+S139,Computer Science,100,A+,2026-11-05
+S139,Tamil,89,A,2026-11-05
+S140,Mathematics,70,B,2026-11-05
+S140,Science,70,B,2026-11-05
+S140,English,56,D,2026-11-05
+S140,Social Science,76,B,2026-11-05
+S140,Computer Science,56,D,2026-11-05
+S140,Tamil,60,C,2026-11-05
+S141,Mathematics,52,D,2026-11-05
+S141,Science,58,D,2026-11-05
+S141,English,70,B,2026-11-05
+S141,Social Science,69,C,2026-11-05
+S141,Computer Science,65,C,2026-11-05
+S141,Tamil,65,C,2026-11-05
+S142,Mathematics,41,F,2026-11-05
+S142,Science,55,D,2026-11-05
+S142,English,46,F,2026-11-05
+S142,Social Science,46,F,2026-11-05
+S142,Computer Science,41,F,2026-11-05
+S142,Tamil,44,F,2026-11-05
+S143,Mathematics,57,D,2026-11-05
+S143,Science,64,C,2026-11-05
+S143,English,57,D,2026-11-05
+S143,Social Science,63,C,2026-11-05
+S143,Computer Science,67,C,2026-11-05
+S143,Tamil,67,C,2026-11-05
+S144,Mathematics,57,D,2026-11-05
+S144,Science,51,D,2026-11-05
+S144,English,63,C,2026-11-05
+S144,Social Science,59,D,2026-11-05
+S144,Computer Science,65,C,2026-11-05
+S144,Tamil,69,C,2026-11-05
+S145,Mathematics,87,A,2026-11-05
+S145,Science,83,A,2026-11-05
+S145,English,76,B,2026-11-05
+S145,Social Science,82,A,2026-11-05
+S145,Computer Science,75,B,2026-11-05
+S145,Tamil,97,A+,2026-11-05
+S146,Mathematics,78,B,2026-11-05
+S146,Science,82,A,2026-11-05
+S146,English,79,B,2026-11-05
+S146,Social Science,86,A,2026-11-05
+S146,Computer Science,97,A+,2026-11-05
+S146,Tamil,87,A,2026-11-05
+S147,Mathematics,71,B,2026-11-05
+S147,Science,82,A,2026-11-05
+S147,English,72,B,2026-11-05
+S147,Social Science,66,C,2026-11-05
+S147,Computer Science,71,B,2026-11-05
+S147,Tamil,71,B,2026-11-05
+S148,Mathematics,65,C,2026-11-05
+S148,Science,56,D,2026-11-05
+S148,English,67,C,2026-11-05
+S148,Social Science,55,D,2026-11-05
+S148,Computer Science,67,C,2026-11-05
+S148,Tamil,45,F,2026-11-05
+S149,Mathematics,53,D,2026-11-05
+S149,Science,44,F,2026-11-05
+S149,English,65,C,2026-11-05
+S149,Social Science,45,F,2026-11-05
+S149,Computer Science,49,F,2026-11-05
+S149,Tamil,61,C,2026-11-05
+S150,Mathematics,71,B,2026-11-05
+S150,Science,77,B,2026-11-05
+S150,English,67,C,2026-11-05
+S150,Social Science,81,A,2026-11-05
+S150,Computer Science,66,C,2026-11-05
+S150,Tamil,71,B,2026-11-05

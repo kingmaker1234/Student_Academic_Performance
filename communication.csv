@@ -1,0 +1,46 @@
+date,student_id,sender_type,sender_id,sender_name,message
+2026-11-09,S101,Teacher,T101,Priya Venkatesh,Good performance. Improve problem-solving speed.
+2026-11-09,S101,Parent,P101,Rajesh Kumar,We will encourage daily mathematics practice.
+2026-11-06,S102,Teacher,T105,Deepa Thomas,Excellent work in English. Keep it up.
+2026-11-09,S102,Parent,P102,Sunita Sharma,We will make sure homework is done every day.
+2026-11-07,S105,Teacher,T105,Deepa Thomas,Very good progress in English. Well done.
+2026-11-06,S112,Teacher,T105,Deepa Thomas,Marks in English are low. Extra practice is needed.
+2026-11-09,S112,Parent,P112,Ravi Shankar,We will arrange extra practice at home.
+2026-11-06,S114,Teacher,T105,Deepa Thomas,Struggling with English. Please check homework at home.
+2026-11-09,S114,Parent,P114,Sundar Rajan,We will arrange extra practice at home.
+2026-11-06,S117,Teacher,T103,Lakshmi Narayanan,Excellent work in Science. Keep it up.
+2026-11-09,S117,Parent,P117,Prasad Natarajan,Thank you for the update.
+2026-11-06,S118,Teacher,T102,Suresh Kumar,Shows strong understanding of Mathematics.
+2026-11-09,S118,Parent,P118,Balaji Srinivasan,We will make sure homework is done every day.
+2026-11-06,S119,Teacher,T106,Michael Joseph,Struggling with English. Please check homework at home.
+2026-11-09,S119,Parent,P119,Rakesh Verma,We will arrange extra practice at home.
+2026-11-07,S120,Teacher,T102,Suresh Kumar,Very good progress in Mathematics. Well done.
+2026-11-09,S120,Parent,P120,Geetha Iyer,Please let us know if there is anything else we can do.
+2026-11-07,S122,Teacher,T106,Michael Joseph,Needs to improve in English. Please practise daily.
+2026-11-08,S123,Teacher,T104,Arun Prakash,Very good progress in Science. Well done.
+2026-11-08,S124,Teacher,T108,Imran Sheikh,Very good progress in Social Science. Well done.
+2026-11-09,S124,Parent,P124,Anand Pillai,"Thank you, teacher. We will encourage more reading."
+2026-11-06,S125,Teacher,T108,Imran Sheikh,Shows strong understanding of Social Science.
+2026-11-09,S125,Parent,P125,Prakash Velu,"Thank you, teacher. We will encourage more reading."
+2026-11-08,S128,Teacher,T106,Michael Joseph,Struggling with English. Please check homework at home.
+2026-11-09,S128,Parent,P128,Usha Rao,Please let us know if there is anything else we can do.
+2026-11-08,S129,Teacher,T108,Imran Sheikh,Excellent work in Social Science. Keep it up.
+2026-11-06,S131,Teacher,T104,Arun Prakash,Shows strong understanding of Science.
+2026-11-09,S131,Parent,P131,Ramesh Narayanan,Thank you for the update.
+2026-11-07,S132,Teacher,T106,Michael Joseph,Very good progress in English. Well done.
+2026-11-09,S132,Parent,P132,Kiran Shetty,Thank you for the update.
+2026-11-07,S133,Teacher,T104,Arun Prakash,Shows strong understanding of Science.
+2026-11-09,S133,Parent,P133,Anand Raj,Thank you for the update.
+2026-11-07,S135,Teacher,T109,Sathish Kumar,Excellent work in Computer Science. Keep it up.
+2026-11-09,S135,Parent,P135,Thomas Mathew,"Thank you, teacher. We will encourage more reading."
+2026-11-08,S136,Teacher,T104,Arun Prakash,Struggling with Science. Please check homework at home.
+2026-11-09,S136,Parent,P136,Selvam Durai,"Thank you, teacher. We will encourage more reading."
+2026-11-07,S139,Teacher,T109,Sathish Kumar,Very good progress in Computer Science. Well done.
+2026-11-07,S140,Teacher,T106,Michael Joseph,Struggling with English. Please check homework at home.
+2026-11-09,S140,Parent,P140,Nathan Raman,We will arrange extra practice at home.
+2026-11-06,S143,Teacher,T102,Suresh Kumar,Marks in Mathematics are low. Extra practice is needed.
+2026-11-09,S143,Parent,P143,Francis Xavier,Thank you for the update.
+2026-11-07,S145,Teacher,T110,Meenakshi Sundaram,Excellent work in Tamil. Keep it up.
+2026-11-09,S145,Parent,P145,Nitin Kulkarni,Please let us know if there is anything else we can do.
+2026-11-07,S148,Teacher,T110,Meenakshi Sundaram,Marks in Tamil are low. Extra practice is needed.
+2026-11-09,S148,Parent,P148,Ramesh Yadav,We will make sure homework is done every day.
